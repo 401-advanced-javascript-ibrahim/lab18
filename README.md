@@ -20,4 +20,4 @@ npm i jest eslint
      - 'npm test'
 
 #### UML
-![](assets/lab18.jpg)
+![](5.jpg)
